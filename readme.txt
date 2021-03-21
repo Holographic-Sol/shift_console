@@ -14,6 +14,6 @@ Please ensure win32 long paths are enabled either in registry or using gpedit.
     1. Run Gpedit.
     2. Computer Configuration -> Administrative Tools -> System -> Filesystem -> Enable Win32 long paths.
 
-Any issues please run the exe from powershell and read any errors. Waters nice o ver here so enjoy.
+Any issues please run the exe from powershell and read any errors. Waters nice over here so enjoy.
 
 Python Version: 3.9.2
