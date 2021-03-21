@@ -10,3 +10,7 @@ Faster than copying everything in circumstances where modified files are unknown
 saves hassle of manually going in and out of directories looking for files that need to be backed up.
 
 Python Version: 3.9.2
+
+Please ensure win32 long paths are enabled either inn registry or using gpedit.
+    1. Run Gpedit.
+    2. Computer Configuration -> Administrative Tolls -> System -> Filesystem -> Enable Win32 long paths.
