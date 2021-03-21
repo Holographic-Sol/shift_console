@@ -12,7 +12,7 @@ saves hassle of manually going in and out of directories looking for files that 
 
 Please ensure win32 long paths are enabled either in registry or using gpedit.
     1. Run Gpedit.
-    2. Computer Configuration -> Administrative Tolls -> System -> Filesystem -> Enable Win32 long paths.
+    2. Computer Configuration -> Administrative Tools -> System -> Filesystem -> Enable Win32 long paths.
 
 Any issues please run the exe from powershell and read any errors. Waters nice o ver here so enjoy.
 
